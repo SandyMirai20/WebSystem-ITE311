@@ -135,6 +135,7 @@ Stack trace:
 #11 C:\xampp\htdocs\ITE311-GOMEZ\system\Boot.php(133): CodeIgniter\Boot::runCommand(Object(CodeIgniter\CLI\Console))
 #12 C:\xampp\htdocs\ITE311-GOMEZ\spark(87): CodeIgniter\Boot::bootSpark(Object(Config\Paths))
 #13 {main}
+<<<<<<< HEAD
 CRITICAL - 2025-08-13 00:53:12 --> ParseError: syntax error, unexpected token "<<", expecting "]"
 [Method: GET, Route: /]
 in APPPATH\Config\Database.php on line 30.
@@ -386,3 +387,5 @@ in APPPATH\Config\Database.php on line 30.
 16 SYSTEMPATH\Boot.php(363): CodeIgniter\CodeIgniter->run()
 17 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
 18 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+=======
+>>>>>>> 1416350463312d3df6c6aa5e38dfa2e762175ccc

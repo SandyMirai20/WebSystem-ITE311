@@ -25,4 +25,12 @@
         <h1>Welcome to my Bootstrap</h1>
     </div>
 </body>
+<<<<<<< HEAD
 </html> 
+=======
+<<<<<<< HEAD
+</html>
+=======
+</html>
+>>>>>>> 37bee22 (Add database migrations and seeders)
+>>>>>>> 1416350463312d3df6c6aa5e38dfa2e762175ccc

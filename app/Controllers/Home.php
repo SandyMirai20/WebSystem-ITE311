@@ -4,6 +4,7 @@ namespace App\Controllers;
 
 class Home extends BaseController
 {
+<<<<<<< HEAD
     public function __construct()
     {
         helper('url'); 
@@ -23,5 +24,10 @@ class Home extends BaseController
     public function contact(): string
     {
         return view('contact');
+=======
+    public function index(): string
+    {
+        return view('template');
+>>>>>>> 1416350463312d3df6c6aa5e38dfa2e762175ccc
     }
 }
