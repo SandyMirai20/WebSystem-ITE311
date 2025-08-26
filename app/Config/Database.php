@@ -27,6 +27,7 @@ class Database extends Config
     public array $default = [
         'DSN'          => '',
         'hostname'     => 'localhost',
+<<<<<<< HEAD
 
         'username'     => 'root',
         'password'     => '',
@@ -37,6 +38,23 @@ class Database extends Config
         'username'     => 'root',
         'password'     => '',
         'database'     => 'lms_gomez',
+=======
+<<<<<<< HEAD
+        'username'     => 'root',
+        'password'     => '',
+        'database'     => 'lms_gomez',
+=======
+<<<<<<< HEAD
+        'username'     => '',
+        'password'     => '',
+        'database'     => '',
+=======
+        'username'     => 'root',
+        'password'     => '',
+        'database'     => 'lms_gomez',
+>>>>>>> 37bee22 (Add database migrations and seeders)
+>>>>>>> 1416350463312d3df6c6aa5e38dfa2e762175ccc
+>>>>>>> 53f19cc5b3bf96b96cac056b0d7eebf4c08b344d
         'DBDriver'     => 'MySQLi',
         'DBPrefix'     => '',
         'pConnect'     => false,

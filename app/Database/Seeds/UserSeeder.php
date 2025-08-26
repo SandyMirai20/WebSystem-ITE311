@@ -10,7 +10,11 @@ class UserSeeder extends Seeder
     {
         $data = [
             [
+<<<<<<< HEAD
                 'name' => 'GOMEZ',
+=======
+                'name' => 'Admin gomez',
+>>>>>>> 53f19cc5b3bf96b96cac056b0d7eebf4c08b344d
                 'email' => 'GomezCrisandy@gmail.com',
                 'password' => password_hash('admin123', PASSWORD_DEFAULT),
                 'role' => 'admin',
